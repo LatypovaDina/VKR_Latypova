@@ -91,7 +91,7 @@ EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 DEFAULT_FROM_EMAIL = 'noreply@crb-atnya.ru'
 ADMIN_EMAIL = 'admin@crb-atnya.ru'
 
-SITE_AUTHOR = 'Разработчик: Иванов И.И.'
+SITE_AUTHOR = 'Разработчик: Латыпова Д.И.'
 SITE_NAME = (
     'Государственное автономное учреждение здравоохранения '
     '«Атнинская центральная районная больница»'
